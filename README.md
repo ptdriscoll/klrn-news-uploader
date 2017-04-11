@@ -31,7 +31,7 @@ This is what they do:
   -UPLOAD PLAYLIST: Upload to KLRN Channel, then add to News Updates Playlist  
   -PLAYLIST: Move most recently uploaded videos to News Updates Playlist  
   
-By default, the program refers to the last saved text files. But to optionally archive a file for later use, such as when waiting a day or two to actualy upload the videos or move them into a playlist, then add an optional archive argument to namespace the file name: 
+By default, the program refers to the last saved text files. But to optionally archive a file, such as when waiting a day or two to actually upload videos or move them into the playlist, then add an archive argument to namespace the file name: 
 
   -archive <date_or_something>  
   -a <date_or_whatever>  
