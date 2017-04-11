@@ -12,29 +12,29 @@ The program uses output/compiled.txt to upload the videos. The video ids from a 
 
 The application is run through a command line interface using run.py in the root folder. Here are the available commands:
 
-  --compile
-  --upload
-  --upload --playlist
-  --playlist
+  --compile  
+  --upload  
+  --upload --playlist  
+  --playlist  
 
 These are the short flags:
 
-  -c
-  -u
-  -u -p
-  -p
+  -c  
+  -u  
+  -u -p  
+  -p  
 
 This is what they do:
 
-  -COMPILE: Compile html for blog post, and text for YouTube videos
-  -UPLOAD: Upload videos to KLRN YouTube Channel
-  -UPLOAD PLAYLIST: Upload to KLRN Channel, then add to News Updates Playlist
-  -PLAYLIST: Move most recently uploaded videos to News Updates Playlist
+  -COMPILE: Compile html for blog post, and text for YouTube videos  
+  -UPLOAD: Upload videos to KLRN YouTube Channel  
+  -UPLOAD PLAYLIST: Upload to KLRN Channel, then add to News Updates Playlist  
+  -PLAYLIST: Move most recently uploaded videos to News Updates Playlist  
   
 By default, the program refers to the last saved text files. But to optionally archive a file for later use, such as when waiting a day or two to actualy upload the videos or move them into a playlist, then add an optional archive argument to namespace the file name: 
 
-  -archive <date_or_something>
-  -a <date_or_whatever>
+  -archive <date_or_something>  
+  -a <date_or_whatever>  
   
 Note that --archive is both a setter and getter, doing whichever the program needs at different points in the flow.
 
@@ -42,25 +42,25 @@ Note that --archive is both a setter and getter, doing whichever the program nee
 
 From root folder, after entering all information into INPUT.txt: 
 
-  run.py --compile
-  run.py --upload
-  run.py --playlist
+  run.py --compile  
+  run.py --upload  
+  run.py --playlist  
 
 Using shortcuts:
   
-  run.py -c 
-  run.py -u -p
+  run.py -c   
+  run.py -u -p  
   
 Or:
 
-  run.py -c 
-  run.py -up  
+  run.py -c   
+  run.py -up    
   
 The workflow for namespacing files so they can be managed over more than one day: 
 
-  run.py --compile --archive 4-10
-  run.py --upload --archive 4-10
-  run.py --playlist --archive 4-10
+  run.py --compile --archive 4-10  
+  run.py --upload --archive 4-10  
+  run.py --playlist --archive 4-10  
 
 ### References
 
