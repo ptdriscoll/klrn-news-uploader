@@ -1,14 +1,13 @@
-DATE in this FORMAT: Monday, April 10, 2017
+DATE (in this FORMAT: Monday, April 10, 2017)
 ====
-Monday, April 10, 2017
+Tuesday, April 11, 2017
 
 
 VIDEO TITLES 
 ============
-Bill Would Ease Food Stamp Limits, Thousands Participate In Komen Race
-Fiesta’s Economic Impact, Boerne Protest Against Planned Development
-Mission Locking Doors After Thefts, Volunteers Help Teens Furnish Homes
-
+Alamo Renovation Will Change Area, New USAA Benefits Raise Minimum Wage
+State Collects $1.7 Million From New Program, Selling Easter Animals Illegal
+Marijuana Found In Truck That Hit Bus, South SA Chamber Embraces Bond Package
 
 
 
@@ -16,11 +15,11 @@ Mission Locking Doors After Thefts, Volunteers Help Teens Furnish Homes
 VIDEO KEYWORDS
 ==============
 
-Texas families, food stamps, News Radio 1200 WOAI, Texas, Susan G. Komen, Race for the Cure, breast cancer, KSAT 12, cancer, klrn
+Alamo, Alamo Plaza, Alamo Street, Alamo Plaza, News Radio 1200 WOAI,USAA, Best places to work, adoption, work from home, klrn
 
-Fiesta, San Antonio, Fiesta Commission, UTSA, KENS 5, KSAT 12, Cibolo creek, boerne, Boerne City Council, annexation, klrn
+deadbeat parents, vehicle registration, child support, vehicle registrations, News 4, Child Support Division, Easter, baby animals, chicks, ducks, rabbits, klrn
 
-Mission San Juan Capistrano, World Heritage Site, KSAT 12, foster care, Turning Point program, China Grove Lions Club, klrn
+marijuana, prescription drugs, Express News, Jack D. Young, Clonazepan, state troopers, South San Antonio Chamber of Commerce, KSAT 12, Early voting, klrn
 
 
 
@@ -28,12 +27,11 @@ Mission San Juan Capistrano, World Heritage Site, KSAT 12, foster care, Turning 
 
 BLOG LINK TITLES (add aserisk * in front of two titles to add to blog description)
 ================
-Bill Would Ease Food Stamp Limits
-Thousands Participate In Komen Race
-Fiesta’s Economic Impact
-Boerne Protest Against Planned Development
-Mission Locking Doors After Thefts
-Volunteers Help Teens Furnish Homes
+Alamo Renovation Will Change Area
+New USAA Benefits Raise Minimum Wage
+State Collects $1.7 Million From New Program
+Marijuana Found In Truck That Hit Bus
+South SA Chamber Embraces Bond Package
 
 
 
@@ -41,19 +39,13 @@ Volunteers Help Teens Furnish Homes
 BLOG LINKS
 ==========
 
-http://woai.iheart.com/articles/local-news-119078/proposal-in-the-legislature-would-make-15725799/
+http://woai.iheart.com/articles/texas-news-499381/300-to-400-million-alamo-plaza-15728562/
+http://www.ksat.com/money/usaa-raises-minimum-wage-to-16-per-hour-expands-parental-leave
 
-https://www.ksat.com/community/participants-help-raise-nearly-12-million-during-susan-g-komen-race
+http://news4sanantonio.com/news/local/ag-more-than-1-million-collected-in-child-support-program-tied-to-vehicle-registration
 
-http://www.kens5.com/entertainment/events/fiesta/party-with-a-purpose-fiestas-economic-impact-on-sa/430053421
-
-https://www.ksat.com/news/dozens-rally-in-boerne-to-protest-development-of-green-space
-
-http://www.ksat.com/news/mission-san-juan-robbed-3-times-in-past-6-weeks-san-antonio-texas-world-heritage-site
-
-https://www.ksat.com/community/volunteers-help-homeless-teens-get-furnished-home
-
-
+http://www.mysanantonio.com/news/local/article/Pot-found-in-truck-that-hit-church-bus-near-11065822.php
+http://www.ksat.com/news/politics/leaders-aim-to-bring-jobs-housing-business-to-south-side
 
 
 

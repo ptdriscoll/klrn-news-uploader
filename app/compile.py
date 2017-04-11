@@ -39,9 +39,7 @@ def run(root, archive):
         for line in f:
             line = line.strip()
             if not _line_to_read(line): continue
-            if section == 'DATE': 
-              if ', 20' in line: date = line[:-6]
-              else: date = line 
+            if section == 'DATE': date = line
             if section == 'VIDEO TITLES': video_titles.append(line)
             if section == 'VIDEO KEYWORDS': video_keywords.append(line)
             if section == 'BLOG LINK TITLES':
@@ -59,8 +57,11 @@ def run(root, archive):
             if x in blog_description: continue        
             blog_description.append(x)                  
 
-    #first build blog content        
-    text += 'News links for ' + date + '\n\n'
+    #first build blog content  
+    if ', 20' in date: blog_date = date[:-6]
+    else: blog_date = date
+    
+    text += 'News links for ' + blog_date + '\n\n'
     text += blog_description[0] + ', ' + blog_description[1] + ' and other headlines.\n\n'
 
     for x in blog_titles:
