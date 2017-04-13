@@ -1,13 +1,14 @@
 DATE (in this FORMAT: Monday, April 10, 2017)
 ====
-Tuesday, April 11, 2017
+Thursday, April 13, 2017
 
 
 VIDEO TITLES 
 ============
-Alamo Renovation Will Change Area, New USAA Benefits Raise Minimum Wage
-State Collects $1.7 Million From New Program, Selling Easter Animals Illegal
-Marijuana Found In Truck That Hit Bus, South SA Chamber Embraces Bond Package
+Hulu Bringing Jobs to San Antonio, Fill The Boot Campaign Exceeds Goal
+Brackenridge Park Ready For Easter, Hazardous Duty Pay for TABC Officials
+Campaign Against Drunk Drinking During Fiesta, Google Hut Removed 
+
 
 
 
@@ -15,23 +16,23 @@ Marijuana Found In Truck That Hit Bus, South SA Chamber Embraces Bond Package
 VIDEO KEYWORDS
 ==============
 
-Alamo, Alamo Plaza, Alamo Street, Alamo Plaza, News Radio 1200 WOAI,USAA, Best places to work, adoption, work from home, klrn
+Hulu,San Antonio,Mayor Ivy Taylor, Alamo City,KSAT 12, Muscular Dystrophy Association, muscular dystrophy, fill the boot campaign, klrn
 
-deadbeat parents, vehicle registration, child support, vehicle registrations, News 4, Child Support Division, Easter, baby animals, chicks, ducks, rabbits, klrn
+San Antonio, Easter, Easter weekend, Brackenridge Park, Texas Alcohol and Beverage Commission, Texas Tribune, Sherry Cook, TABC, klrn
 
-marijuana, prescription drugs, Express News, Jack D. Young, Clonazepan, state troopers, South San Antonio Chamber of Commerce, KSAT 12, Early voting, klrn
-
+Fiesta, Uber, Lyft, VIA Park and Ride, KSAT 12, San Antonio, Google, Google Hut, News Radio 1200 WOAI, klrn
 
 
 
 
 BLOG LINK TITLES (add aserisk * in front of two titles to add to blog description)
 ================
-Alamo Renovation Will Change Area
-New USAA Benefits Raise Minimum Wage
-State Collects $1.7 Million From New Program
-Marijuana Found In Truck That Hit Bus
-South SA Chamber Embraces Bond Package
+Hulu Bringing Jobs to San Antonio
+Fill The Boot Campaign Exceeds Goal
+Brackenridge Park Ready For Easter
+Hazardous Duty Pay for TABC Officials
+Campaign Against Drunk Drinking During Fiesta
+Google Hut Removed 
 
 
 
@@ -39,13 +40,18 @@ South SA Chamber Embraces Bond Package
 BLOG LINKS
 ==========
 
-http://woai.iheart.com/articles/texas-news-499381/300-to-400-million-alamo-plaza-15728562/
-http://www.ksat.com/money/usaa-raises-minimum-wage-to-16-per-hour-expands-parental-leave
+http://www.ksat.com/news/mayor-taylor-hulu-opening-service-center-in-san-antonio
 
-http://news4sanantonio.com/news/local/ag-more-than-1-million-collected-in-child-support-program-tied-to-vehicle-registration
+http://www.ksat.com/news/san-antonio-raises-over-240k-for-muscular-dystrophy-association
 
-http://www.mysanantonio.com/news/local/article/Pot-found-in-truck-that-hit-church-bus-near-11065822.php
-http://www.ksat.com/news/politics/leaders-aim-to-bring-jobs-housing-business-to-south-side
+http://www.ksat.com/news/easter-campers-claiming-spots-at-brackenridge-park
+
+https://www.texastribune.org/2017/04/12/top-liquor-administrator-got-hazardous-duty-pay-hawaii/
+
+http://www.ksat.com/entertainment/fiesta/law-enforcement-organizations-team-up-to-prevent-dwi-during-fiesta-san-antonio-texas
+
+http://woai.iheart.com/articles/local-news-119078/google-fiber-hut-getting-the-boot-15736270/
+
 
 
 

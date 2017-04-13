@@ -79,9 +79,9 @@ def add_video_to_playlist(youtube,videoID,playlistID):
 	).execute()
 	
 	if videoID == add_video_request['snippet']['resourceId']['videoId']:
-		print "Video id '%s' was successfully moved into playlist" % videoID
+		print "\nVideo id '%s' was successfully moved into playlist" % videoID
 	else:
-		print "Video id '%s' was NOT moved into playlist" % videoID  
+		print "\nVideo id '%s' was NOT moved into playlist" % videoID  
 
 def run(video_id, playlist_id):
     flags = argparser.parse_args(args=[])
