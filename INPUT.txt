@@ -1,13 +1,15 @@
-DATE (in this FORMAT: Monday, April 10, 2017)
+DATE (format: Monday, April 10, 2017)
 ====
-Thursday, April 13, 2017
+Thursday, April 27, 2017
 
 
 VIDEO TITLES 
 ============
-Hulu Bringing Jobs to San Antonio, Fill The Boot Campaign Exceeds Goal
-Brackenridge Park Ready For Easter, Hazardous Duty Pay for TABC Officials
-Campaign Against Drunk Drinking During Fiesta, Google Hut Removed 
+Fiesta Campers on Broadway Welcomed, Disaster Scenario at Ft. Sam Houston
+Texas Ban on Sanctuary Cities, City Closures for Fiesta Friday
+FBI Raids Laredo City Buildings, Historic Building to Become Help Center
+
+
 
 
 
@@ -16,23 +18,26 @@ Campaign Against Drunk Drinking During Fiesta, Google Hut Removed
 VIDEO KEYWORDS
 ==============
 
-Hulu,San Antonio,Mayor Ivy Taylor, Alamo City,KSAT 12, Muscular Dystrophy Association, muscular dystrophy, fill the boot campaign, klrn
+Fiesta, Fiesta san antonio, Fiesta street parades, Fiesta parade route, Broadway parade route, KSAT 12, disaster training, fort sam quadrangle, Fort Sam Houston, klrn
 
-San Antonio, Easter, Easter weekend, Brackenridge Park, Texas Alcohol and Beverage Commission, Texas Tribune, Sherry Cook, TABC, klrn
+Texas House, sanctuary cities, Texas, law enforcement, federal immigration law, KSAT 12, Fiesta, fiesta san antonio, Downtown parking, klrn 
 
-Fiesta, Uber, Lyft, VIA Park and Ride, KSAT 12, San Antonio, Google, Google Hut, News Radio 1200 WOAI, klrn
+FBI, Laredo, Dannenbaum Engineering, San Antonio,Laredo Mayor Pete Saenz, KENS 5, Good Samaritan Veterans Outreach and Transition Center, Alamo community college district, accd, veterans, employment opportunities, transitional services, klrn
+
 
 
 
 
 BLOG LINK TITLES (add aserisk * in front of two titles to add to blog description)
 ================
-Hulu Bringing Jobs to San Antonio
-Fill The Boot Campaign Exceeds Goal
-Brackenridge Park Ready For Easter
-Hazardous Duty Pay for TABC Officials
-Campaign Against Drunk Drinking During Fiesta
-Google Hut Removed 
+
+
+Fiesta Campers on Broadway Welcomed
+Disaster Scenario at Ft. Sam Houston
+Texas Ban on Sanctuary Cities
+FBI Raids Laredo City Buildings
+Historic Building to Become Help Center
+
 
 
 
@@ -40,17 +45,40 @@ Google Hut Removed
 BLOG LINKS
 ==========
 
-http://www.ksat.com/news/mayor-taylor-hulu-opening-service-center-in-san-antonio
+http://www.ksat.com/entertainment/fiesta/city-says-parade-campouts-ok-after-warning-of-their-end-last-year
+http://news4sanantonio.com/news/local/military-federal-agencies-run-through-weeklong-disaster-scenario-at-fort-sam-houston
 
-http://www.ksat.com/news/san-antonio-raises-over-240k-for-muscular-dystrophy-association
+https://www.texastribune.org/2017/04/27/tensions-flaring-house-members-will-debate-anti-sanctuary-city-bill/
 
-http://www.ksat.com/news/easter-campers-claiming-spots-at-brackenridge-park
+http://www.kens5.com/news/local/laredo-mayor-will-fully-cooperate-with-fbi-investigation-at-city-buildings/434267801
 
-https://www.texastribune.org/2017/04/12/top-liquor-administrator-got-hazardous-duty-pay-hawaii/
+http://www.ksat.com/news/military/former-hospital-building-being-converted-into-veterans-center
 
-http://www.ksat.com/entertainment/fiesta/law-enforcement-organizations-team-up-to-prevent-dwi-during-fiesta-san-antonio-texas
 
-http://woai.iheart.com/articles/local-news-119078/google-fiber-hut-getting-the-boot-15736270/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

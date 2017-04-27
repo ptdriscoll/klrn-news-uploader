@@ -55,7 +55,7 @@ def run(opts):
         print '''One of the following four flags must be added:
         \n  --compile\n  --upload\n  --upload --playlist\n  --playlist
         \n\nOr use these short flags:\n\n  -c\n  -u\n  -u -p\n  -p
-        \n\nOptionally add to one of the flags:\n\n  -archive <date_or_something>\n  -a <date_or_whatever>
+        \n\nOptionally add one of these flags:\n\n  -archive <date_or_something>\n  -a <date_or_whatever>
         \n\nThis is what they do:
         \n  COMPILE: {}\n\n  UPLOAD: {}\n\n  UPLOAD PLAYLIST: {}\n\n  PLAYLIST: {}\n\n  ARCHIVE: {}
         '''.format(help['compile'], help['upload'], help['upload_and_playlist'], help['playlist'], help['archive'])
