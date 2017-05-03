@@ -62,7 +62,7 @@ def run(root, archive):
     else: blog_date = date
     
     text += 'News links for ' + blog_date + '\n\n'
-    text += blog_description[0] + ', ' + blog_description[1] + ' and other headlines.\n\n'
+    text += blog_description[0] + ', ' + blog_description[1] + ', and other headlines.\n\n'
 
     for x in blog_titles:
         text += x + '\n'

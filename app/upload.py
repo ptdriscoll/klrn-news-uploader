@@ -149,7 +149,8 @@ def run(root, vids_dir, archive):
         
     text = ''
     for x in uploaded_ids:
-        text += x.strip() + '\n'
+        if x: x = x.strip()
+        text += x + '\n'
         
     text += '\n'
     for x in uploaded_ids:
