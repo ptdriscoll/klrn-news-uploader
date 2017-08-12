@@ -70,7 +70,7 @@ def add_videos(root, vids_dir, archive):
     
     #get mp4s in target directory, extract dates from names, match with dates from title
     for f in os.listdir(vids_dir):
-        if f.endswith('.mp4'): 
+        if f.endswith('.mp4') and len(f.split('-')) == 4: 
             date_check = f.rsplit('-', 2)[0]
             number = f.rsplit('-', 1)[1].split('.mp4')[0]            
             '''            
@@ -149,8 +149,9 @@ def run(root, vids_dir, archive):
         
     text = ''
     for x in uploaded_ids:
-        if x: x = x.strip()
-        text += x + '\n'
+        if x: 
+            x = x.strip()
+            text += x + '\n'
         
     text += '\n'
     for x in uploaded_ids:

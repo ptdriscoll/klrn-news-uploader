@@ -1,15 +1,14 @@
 DATE (format: Monday, April 10, 2017)
 ====
-Wednesday, May 3, 2017
+Friday, August 11, 2017
 
 
 VIDEO TITLES 
 ============
-Task Force to Study Airport Issues, Bexar County Property Values Increase
-Alamo Reno Plans Being Tweaked, Early Voting Numbers Record High
-Medina Defending Use of Police Escorts, County To Begin Work On Hot Wells
 
-
+Cibolo Residents Against Toll Road, Reading Project for Jailed Teens
+Castro Forms Political PAC, Tax Free Weekend In Texas
+Domestic Violence Task Force, Southwest ISD Opens New High School
 
 
 
@@ -20,11 +19,11 @@ Medina Defending Use of Police Escorts, County To Begin Work On Hot Wells
 VIDEO KEYWORDS
 ==============
 
-San Antonio air service, san antonio airport, News Radio 1200 WOAI, international flights,nonstop flights, Austin airport, Bexar County Judge Nelson Wolff, Bexar County, bexar Appraisal District, klrn
+city of Cibolo, cibolo, toll road, toll roads, teens, Books to Incarcerated Youth, troubled teens, halfway houses, juvenile facilities, klrn
 
-alamo, Alamo renovation, Alamo Plaza, News 4, Texas Week,Bexar County voters, municipal election, KENS 5, early voting, Bexar County Elections Administrator, klrn
+San Antonio Mayor, HUD Secretary, Julián Castro, political action committee, Opportunity First, federal PAC, political contributions, Texas sales tax holiday, klrn
 
-Manuel Medina, San Antonio Police Officers, SAPD, KSAT 12, san antonio police department, Hot Wells hotel and spa, Judge Nelson Wolff, News4, klrn
+domestic violence task force, Bexar County, child abuse, Battered Women and Children's shelter, Southwest Independent School District, Southwest Legacy High School, Southwest High School, klrn
 
 
 
@@ -35,12 +34,13 @@ BLOG LINK TITLES (add aserisk * in front of two titles to add to blog descriptio
 ================
 
 
-Task Force to Study Airport Issues
-Bexar County Property Values Increase
-Alamo Reno Plans Being Tweaked
-Early Voting Numbers Record High
-Medina Defending Use of Police Escorts
-County To Begin Work On Hot Wells
+Cibolo Residents Against Toll Road
+Reading Project for Jailed Teens
+Castro Forms Political PAC
+Tax Free Weekend In Texas
+Domestic Violence Task Force
+Southwest ISD Opens New High School
+
 
 
 
@@ -49,17 +49,18 @@ County To Begin Work On Hot Wells
 BLOG LINKS
 ==========
 
-http://woai.iheart.com/articles/local-news-119078/commission-will-recommend-upgrades-to-san-15795882/
+http://woai.iheart.com/content/2017-08-11-cibolo-residents-gather-to-shout-down-toll-road-scheme/
 
-http://news4sanantonio.com/news/local/bexar-homeowners-react-to-county-wide-increase-in-property-values-05-03-2017
+https://www.ksat.com/news/organization-helps-troubled-teens-continue-education-by-giving-them-books
 
-http://news4sanantonio.com/news/local/more-shade-now-part-of-the-alamo-plan-as-debate-continues-over-glass-walls-05-03-2017
+http://www.expressnews.com/news/local/article/Juli-n-Castro-forms-new-political-action-11749246.php
 
-http://www.kens5.com/news/politics/elections/early-vote-totals-up-voter-apathy-still-a-problem/436209873
+https://www.ksat.com/news/what-you-need-to-know-about-texas-tax-free-weekend
 
-https://www.ksat.com/news/elections/san-antonio-texas-mayoral-candidate-manuel-medina-police-officers-escort-people-to-polls
+https://www.ksat.com/news/das-office-explains-successes-with-new-domestic-violence-team
 
-http://news4sanantonio.com/news/local/century-old-landmark-expected-to-get-facelift
+https://www.ksat.com/education/new-southwest-isd-high-school-to-open-for-2017-18-school-year
+
 
 
 
