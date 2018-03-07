@@ -1,14 +1,16 @@
 DATE (format: Monday, April 10, 2017)
 ====
-Friday, August 11, 2017
+Monday, March 5, 2018
+
 
 
 VIDEO TITLES 
 ============
 
-Cibolo Residents Against Toll Road, Reading Project for Jailed Teens
-Castro Forms Political PAC, Tax Free Weekend In Texas
-Domestic Violence Task Force, Southwest ISD Opens New High School
+South San ISD Seeks Tax Hike, Uresti’s Wife Files for Divorce, Spurs' Gasol On Symphony Board
+Space X Launch in South Texas, Alamo Colleges Names Chancellor, Selena Grocery Bags Sell Out
+Business Groups Push Basic Needs, Summer Power Blackouts Possible, City’s Spring Break Camps
+
 
 
 
@@ -19,11 +21,13 @@ Domestic Violence Task Force, Southwest ISD Opens New High School
 VIDEO KEYWORDS
 ==============
 
-city of Cibolo, cibolo, toll road, toll roads, teens, Books to Incarcerated Youth, troubled teens, halfway houses, juvenile facilities, klrn
+South San ISD, Carlos Uresti, Pau Gasol, San Antonio Symphony, klrn
 
-San Antonio Mayor, HUD Secretary, Julián Castro, political action committee, Opportunity First, federal PAC, political contributions, Texas sales tax holiday, klrn
+Space X, Elon Musk, Mike Flores, Alamo Colleges, Selena Grocery Bags, klrn
 
-domestic violence task force, Bexar County, child abuse, Battered Women and Children's shelter, Southwest Independent School District, Southwest Legacy High School, Southwest High School, klrn
+voting, Power Blackouts, Spring Break Camps, klrn
+
+
 
 
 
@@ -34,12 +38,13 @@ BLOG LINK TITLES (add aserisk * in front of two titles to add to blog descriptio
 ================
 
 
-Cibolo Residents Against Toll Road
-Reading Project for Jailed Teens
-Castro Forms Political PAC
-Tax Free Weekend In Texas
-Domestic Violence Task Force
-Southwest ISD Opens New High School
+South San ISD Seeks Tax Hike
+Uresti’s Wife Files for Divorce
+Space X Launch in South Texas
+Alamo Colleges Names Chancellor
+Selena Grocery Bags Sell Out
+Business Groups Push Basic Needs
+Summer Power Blackouts Possible
 
 
 
@@ -49,27 +54,19 @@ Southwest ISD Opens New High School
 BLOG LINKS
 ==========
 
-http://woai.iheart.com/content/2017-08-11-cibolo-residents-gather-to-shout-down-toll-road-scheme/
+https://www.expressnews.com/news/education/article/South-San-faced-with-cutting-7-million-from-12727061.php 
 
-https://www.ksat.com/news/organization-helps-troubled-teens-continue-education-by-giving-them-books
+https://www.expressnews.com/business/local/article/Uresti-s-wife-files-for-divorce-following-12724407.php 
 
-http://www.expressnews.com/news/local/article/Juli-n-Castro-forms-new-political-action-11749246.php
+https://woai.iheart.com/content/2018-03-05-space-travel-could-come-to-the-rio-grande-valley/ 
 
-https://www.ksat.com/news/what-you-need-to-know-about-texas-tax-free-weekend
+https://www.ksat.com/education/alamo-colleges-board-approves-appointment-of-first-hispanic-chancellor 
 
-https://www.ksat.com/news/das-office-explains-successes-with-new-domestic-violence-team
+https://www.expressnews.com/news/local/article/H-E-B-sells-out-of-Selena-bags-in-a-hurry-12724301.php 
 
-https://www.ksat.com/education/new-southwest-isd-high-school-to-open-for-2017-18-school-year
+https://woai.iheart.com/content/2018-03-05-texas-business-leaders-support-candidates-who-support-basic-issues/ 
 
-
-
-
-
-
-
-
-
-
+https://www.expressnews.com/business/eagle-ford-energy/article/Texas-grid-operator-warns-of-possible-rotating-12723906.php 
 
 
 
